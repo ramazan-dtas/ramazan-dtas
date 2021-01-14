@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramazan-dtas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ramazan-dtas&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramazan-dtas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning ...
